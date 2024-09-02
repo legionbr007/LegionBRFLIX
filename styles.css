@@ -1,0 +1,31 @@
+body {
+    color: white;
+    background: green
+}
+
+header {
+    border-bottom: solid 1px red;
+}
+
+section {
+    background: #2e82ef;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+
+img {
+    opacity: 0.5;
+    height: 200px;
+}
+
+img:hover {
+    opacity: 1.0;
+    border: 1px solid red;
+}
+
